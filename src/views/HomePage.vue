@@ -68,7 +68,7 @@ body{
 
 .hih{
     width:60%;
-    height: 230px;
+    min-height: 230px;
     margin-left: 20%;
     margin-right: 20%;
     border-radius: 8px;
