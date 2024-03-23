@@ -100,6 +100,7 @@ body{
     .right-sg{
         width: 100%;
         padding-top: 0;
+        padding-right: 40px;
     }
     .welcomeText-sg{
         font-size: 6vb;
