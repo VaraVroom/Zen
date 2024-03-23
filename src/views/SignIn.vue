@@ -26,7 +26,7 @@ const router= useRouter();
     <signinButton/>
     </div>
     <div class="right-sg">
-    <Vue3Lottie :animationData="welcome" :height="500" :width="500"/>
+    <Vue3Lottie :animationData="welcome" :height="500" :width="500" :noMargin="true"/>
     </div>
     </div>
     <div class="footer-sg">
