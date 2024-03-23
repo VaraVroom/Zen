@@ -100,11 +100,6 @@ body{
     .right-sg{
         width: 100%;
         padding-top: 0;
-
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
     }
     .welcomeText-sg{
         font-size: 6vb;
