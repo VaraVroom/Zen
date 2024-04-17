@@ -2,7 +2,7 @@
 
 zen is a web programme that uses gamification to manage stress, anxiety, and sadness in an active way to bring relief. We created ebb to answer the problem statement of leveraging technology to help people cope with stress, anxiety, and depression.We aim to assist those suffering from stress, anxiety, or depression recognise they can take control of their situation and take action to improve their mental health.An immersive task-based journey that encourages individuals to find themselves and grow emotionally in order to be completely present in the moment.
 
-#how?
+# how?
 
 ebb calculates the user's stress/anxiety/depression level to be spent on a certain set of activities before the end of the day. By doing so, consumers unintentionally take actionable efforts to address their ailment.
 
