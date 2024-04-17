@@ -15,13 +15,6 @@ If their stress/anxiety/depression levels are not up to par, users can retake th
 Spending time on such tasks is analogous to engaging in activities that may reduce your negative mood levels, and we are unaware of any other applications that accomplish something similar in terms of gamification.It reinforces the habit of taking active efforts to cope with one's ailment by allowing users to choose a reward before administering it after completing their chores. The cornerstone of this concept is positive reinforcement, which states that learning accompanied with happy emotions is more likely to be remembered. As a result, correlating incentives with successful credit spending is beneficial in persuading users to cope with their condition in a practical way over time.
 
 # screenshots
-![Image Description](public/zen1.jpeg)
-![Image Description](public/zen2.jpeg)
-![Image Description](public/zen3.jpeg)
-![Image Description](public/zen4.jpeg)
-![Image Description](public/zen5.jpeg)
-![Image Description](public/zen6.jpeg)
-![Image Description](public/zen7.jpeg)
-![Image Description](public/zen8.jpeg)
-![Image Description](public/zen9.jpeg)
-![Image Description](public/zen10.jpeg)
+
+<img src="public/zen.jpeg" alt="Image Description" width="200" height="200">
+
