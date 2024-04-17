@@ -16,5 +16,5 @@ Spending time on such tasks is analogous to engaging in activities that may redu
 
 # screenshots
 
-<img src="public/zen1.jpeg" alt="Image Description" width="200" height="400">
+<img src="public/zen1.jpeg" alt="Image Description" width="250" height="400">
 
