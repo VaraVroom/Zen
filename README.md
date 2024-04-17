@@ -16,3 +16,12 @@ Spending time on such tasks is analogous to engaging in activities that may redu
 
 # screenshots
 ![Image Description](public/zen1.jpeg)
+![Image Description](public/zen2.jpeg)
+![Image Description](public/zen3.jpeg)
+![Image Description](public/zen4.jpeg)
+![Image Description](public/zen5.jpeg)
+![Image Description](public/zen6.jpeg)
+![Image Description](public/zen7.jpeg)
+![Image Description](public/zen8.jpeg)
+![Image Description](public/zen9.jpeg)
+![Image Description](public/zen10.jpeg)
