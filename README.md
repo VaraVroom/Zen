@@ -4,7 +4,7 @@ zen is a web programme that uses gamification to manage stress, anxiety, and sad
 
 # how?
 
-ebb calculates the user's stress/anxiety/depression level to be spent on a certain set of activities before the end of the day. By doing so, consumers unintentionally take actionable efforts to address their ailment.
+zen calculates the user's stress/anxiety/depression level to be spent on a certain set of activities before the end of the day. By doing so, consumers unintentionally take actionable efforts to address their ailment.
 
 Users then chose what activities to do with their days and what reward they will receive for doing them.
 
